@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Jud1th1/scrimba-react-notes-app
-- Live Site URL: https://cartmate-groceryapp.netlify.app/
+- Live Site URL: https://csb-zy6rpg.netlify.app/
 
 ## My process
 - During the development process, I followed a Scrimba tutorial to improve an existing codebase. We added the following features:
